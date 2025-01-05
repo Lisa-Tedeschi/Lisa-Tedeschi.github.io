@@ -22,8 +22,8 @@ title: Lisa Tedeschi website
 email: lisatedeschi2[at]gmail.com
 description: hello world!
 domain: lisatedeschi.com
-baseurl: /lisa-tedeschi.github.io # the subpath of your site, e.g. /blog
-url: https://lisa-tedeschi.github.io # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: /Lisa-Tedeschi.github.io # the subpath of your site, e.g. /blog
+url: https://Lisa-Tedeschi.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username: Lisa-Tedeschi
 
