@@ -1,8 +1,11 @@
 ---
 layout: page
-title: About
+title: About my website which I'm trying to build
 permalink: /about/
 ---
+# About Me
+
+Welcome to my about page! If I can get this right, here's some dynamic content that will render inside `{{ content }}`.
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
